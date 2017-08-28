@@ -1,0 +1,1 @@
+<module 'pysol' from 'C:\Users\cbma\AppData\Local\Python-Eggs\Python-Eggs\Cache\sol-1.1.0-py2.7-win-amd64.egg-tmp\pysol.pyd'>

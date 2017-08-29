@@ -1,0 +1,22 @@
+model info:
+{
+	"clf_num" : 6,
+	"cls_num" : 3,
+	"loss" : "maxscore-hinge",
+	"model" : "pa",
+	"norm" : 0,
+	"online" : 
+	{
+		"bias_eta" : 0,
+		"dim" : 5,
+		"lazy_update" : "false",
+		"t" : 150
+	}
+}
+model parameters:
+weight[0]:
+[ 0 -0.0174875 0.105469 -0.234236 -0.100119 ]
+weight[1]:
+[ 0 -0.0964174 -0.157183 0.126036 0.0531099 ]
+weight[2]:
+[ 0 0.113905 0.0517135 0.1082 0.0470087 ]
